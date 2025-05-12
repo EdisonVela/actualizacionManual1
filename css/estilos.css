@@ -125,3 +125,9 @@ button {
 button:hover {
     background-color: #8897ff;
 }
+footer {
+    background-color: #d1ddff;
+    padding: 1em;
+    margin-bottom: 1em;
+    text-align: center; /* Asegura que el texto se centre */
+}
